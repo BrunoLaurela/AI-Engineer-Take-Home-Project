@@ -4,7 +4,7 @@
 
 This script detects motion in a sports video by analyzing differences between consecutive frames. Frames are extracted at a specific frame rate, pixel differences are analyzed, and regions with significant movement are highlighted.
 
-## Instalación y Dependencias
+## installation and dependencies
 
 Make sure you have the following Python libraries installed before running the script:
 
@@ -12,7 +12,7 @@ Make sure you have the following Python libraries installed before running the s
 pip install opencv-python numpy
 ```
 
-## Uso
+## Usage
 
 Run the script from the command line, specifying the input video path and output directory:
 
